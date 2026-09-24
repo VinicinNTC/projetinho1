@@ -12,7 +12,7 @@ export default function Navbar() {
 
   return (
     <div className="navbar">
-      <Link to="/" className="brand">Caderno</Link>
+      <Link to="/" className="brand">Motion</Link>
       <div className="nav-links">
         {user ? (
           <>

@@ -6,7 +6,7 @@ export default function Home() {
 
   return (
     <div className="hero">
-      <h1>Um caderno simples, sempre à mão.</h1>
+      <h1>Um caderno simples, sempre à mão. MOTION!</h1>
       <p>
         Escreva ideias soltas, listas e lembretes rápidos. Suas anotações ficam
         guardadas só pra você — crie uma conta pra começar a escrever.
